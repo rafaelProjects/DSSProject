@@ -3,5 +3,5 @@
 Data Science Society at Berkeley (Spring 2019) - General Membership
 
 ### Intermediate Team 2k ###
-Topic: 
+Topic: Filtering Spam Through Text Classification
 Data set:
